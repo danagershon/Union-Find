@@ -1,4 +1,4 @@
-# Data Structures Course HW2: Union Find Implementation
+Data Structures Course HW2: Union Find Implementation
 
 • Simple Union Find data structure in C++
 
